@@ -19,7 +19,7 @@
 
 
 ### Ordnerstruktur
-Das Projekt besteht aus drei selbsterklärenden Ordnern: **code**, **result**, **snds**.
+Das Projekt besteht aus drei selbsterklärenden Ordnern: **code**, **result**, **snds**. 
 **snds** befindet sich aufgrund seiner Größe bei den Releases.
 In **result** finden sich zwei Testresultate: *result1*, *result2* mit je 3 Minuten Länge.
 
@@ -113,13 +113,7 @@ Der *Pitch* wird einmalig festgelegt. Die Eigenschaften *width*, *position* und 
 
 Für das Oszillieren wird ein nicht-bandbegrenzter Sägezahn-Oszillator verwendet. 
 
-Beispiel:
 
-<svg width="300" height="150">
-  <path d="M 0 55 L 40 0 L 80 55 L 120 0 L 160 55 L 200 0 L 240 55 L 280 0 L 320 55 L 360 0" fill="none" stroke="black" stroke-width="2"/>
-  <text x="270" y="80" font-family="Arial" font-size="14" fill="black" text-anchor="middle">Time (s)</text>
-  <text x="0" y="20" font-family="Arial" font-size="14" fill="black" transform="rotate(270 10,20)">Amp</text>
-</svg>
 
 ---
 ### Filterung 
