@@ -20,7 +20,8 @@
 
 ### Ordnerstruktur
 Das Projekt besteht aus drei selbsterklärenden Ordnern: **code**, **result**, **snds**.
-In **result** finden sich zwei Testresultate: *result1*, *result2* mit je 15 Minuten Länge.
+**snds** befindet sich aufgrund seiner Größe bei den Releases.
+In **result** finden sich zwei Testresultate: *result1*, *result2* mit je 3 Minuten Länge.
 
 ---
 
@@ -63,7 +64,7 @@ Der nachfolgende Code simuliert den Aufenthalt in einem Café.
 ---
 ### Samples
 
-Alle verwendeten Samples befinden sich im Ordner **snds**.
+Alle verwendeten Samples befinden sich im Ordner **snds** (siehe Releases).
 Sie unterteilen sich thematisch in *technical*, *voices*, *barrista*, *chatter* und *background*. 
 
 
